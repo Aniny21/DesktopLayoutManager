@@ -17,7 +17,7 @@ if not %ERRORLEVEL%==0 (
 :::::::::::::::::::::::::::::::::::::::::::::::::
 
 @rem ‘è–¼•ÏX
-title DesktopLayoutManager Version 3.5.1
+title DesktopLayoutManager Version 1.0
 
 @rem ‹N“®‰æ–Ê‚ğ•\¦‚·‚é‚©
 set showWelcomeScreen=1

@@ -17,7 +17,7 @@ if not %ERRORLEVEL%==0 (
 :::::::::::::::::::::::::::::::::::::::::::::::::
 
 @rem Window Title
-title DesktopLayoutManager Version 3.5.1
+title DesktopLayoutManager Version 1.0
 
 @rem Whether to display the startup screen
 set showWelcomeScreen=1
